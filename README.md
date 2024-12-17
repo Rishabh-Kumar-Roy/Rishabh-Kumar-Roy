@@ -34,3 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabh-kumar-roy&show_icons=true&locale=en&layout=compact" alt="rishabh-kumar-roy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh-kumar-roy&show_icons=true&locale=en" alt="rishabh-kumar-roy" /></p>
+
+![GithubSnake](https://github.com/Rishabh-Kumar-Roy/Rishabh-Kumar-Roy/blob/output/github-snake.svg%20dist/github-snake-dark.svg)
