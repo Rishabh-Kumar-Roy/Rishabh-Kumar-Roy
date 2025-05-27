@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **atsrishabhroy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BhaNgqRD0LFmjNv58jbt1Gf5J1ZLQyJt/view?usp=drive_link](https://drive.google.com/file/d/1BhaNgqRD0LFmjNv58jbt1Gf5J1ZLQyJt/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jCpjyfoZUDKyIAAVIl4pIpUWZX_5CAcL/view?usp=sharing)
 
 - ⚡ Fun fact **I’m also a YouTuber creating engaging college-related content with over 2,000 subscribers and 700,000+ views!**
 
