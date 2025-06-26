@@ -15,9 +15,7 @@
 
 - 💬 Ask me about **Java Development, AI/ML Challenges, and Tech Innovations**
 
-- 📫 How to reach me **atsrishabhroy@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jCpjyfoZUDKyIAAVIl4pIpUWZX_5CAcL/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HXw9_TZEk_npCB9bIOHIWVpcfyKY7MQz/view?usp=sharing)
 
 - ⚡ Fun fact **I’m also a YouTuber creating engaging college-related content with over 3,000 subscribers and 1,500,000+ views!**
 
